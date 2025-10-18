@@ -37,7 +37,7 @@ This project helps users manage daily tasks efficiently with real-time updates a
 ## 🖼️ Screenshot
 
 <p align="center">
-  <img src="./Screenshot.jpegscreenshot.jpeg" alt="TODO App Screenshot"/>
+  <img src="./Screenshot.jpeg" alt="TODO App Screenshot"/>
 </p>
 
 ---
